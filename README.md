@@ -77,5 +77,4 @@ Matematica e estatistica:
 
 
 ## Conclusão
-
-Este projeto demonstra minha capacidade de conduzir um fluxo completo de machine learning, desde a análise exploratória até a avaliação de modelos e a reflexão crítica sobre os resultados obtidos.
+O modelo é capaz de distinguir e prever casos de churn, tornando-o ideal como ferramenta no auxilo da tomada de decisão
